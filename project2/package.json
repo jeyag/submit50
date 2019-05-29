@@ -2,8 +2,10 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "dependencies": {
-    "expo": "^25.0.0",
-    "react": "16.2.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
+    "@babel/runtime": "^7.4.5",
+    "expo": "^26.0.0",
+    "react": "16.4.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz",
+    "react-navigation": "3.11.0"
   }
 }
